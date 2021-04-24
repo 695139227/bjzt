@@ -1,0 +1,16 @@
+{
+    "name": "bjzt/getinfo",
+    "description": "this is test",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bjzt",
+            "email": "695139227@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
